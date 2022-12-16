@@ -57,6 +57,7 @@ table {
     display: flex;
     justify-content: space-between;
     background-color: #364d3c;
+    border: 1px solid #000;
 }
 
 .wrap li{
