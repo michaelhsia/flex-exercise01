@@ -47,3 +47,9 @@ table {
 	border-spacing: 0;
 }
 
+.wrap{
+    margin: 0 auto;
+    width: 584px;
+    display: flex;
+    justify-content: space-between;
+}
