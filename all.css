@@ -66,7 +66,7 @@ table {
 
 .wrap h2{
     font-size: 40px;
-    font-color: #37523d;
+    color: #37523d;
     text-align: center;
     background-color: #e7eeea;
     padding: 40px 0;
@@ -75,7 +75,7 @@ table {
 .wrap h3{
     font-size: 13px;
     font-weight: bold;
-    font-color: #37523d;
+    color: #37523d;
     padding: 17px 15px;
     background-color: #ffffff;
 }
